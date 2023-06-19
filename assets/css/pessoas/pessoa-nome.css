@@ -1,0 +1,11 @@
+.pessoa__nome {
+  font-family: var(--font-pacifico);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2rem;
+  color: var(--vermelho-vinho);
+
+  line-height: 3.5rem;
+
+  margin: 1rem 0;
+}

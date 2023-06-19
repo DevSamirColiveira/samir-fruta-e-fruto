@@ -1,0 +1,17 @@
+.menu__link {
+  text-decoration: none;
+  text-transform: lowercase;
+  
+  color: var(--cinza-escuro);
+  
+  margin-right: 1.25rem;
+}
+
+.menu__link.ativo {
+  color: var(--cinza-bem-escuro);
+  font-weight: bold;
+}
+
+.menu__link:hover {
+  text-decoration: underline;
+}

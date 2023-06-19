@@ -1,0 +1,11 @@
+.rodape__contato {
+  color: var(--meio-branco);
+  text-decoration: none;
+  text-transform: lowercase;
+}
+
+.rodape__contato:hover {
+  font-weight: 500;
+  color: var(--vermelho-vinho);
+  text-decoration: underline;
+}

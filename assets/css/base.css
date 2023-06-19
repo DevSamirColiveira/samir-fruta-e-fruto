@@ -1,0 +1,19 @@
+:root {
+
+  --vermelho-vinho: #8D0606;
+  --branco: #FFFFFF;
+  --meio-branco: #FDFDFD;
+  --cinza-claro: #E5E5E5;
+  --cinza-quase-claro: #C4C4C4;
+  --cinza-escuro-2: #8C8888;
+  --cinza-escuro: #808080;
+  --cinza-meio: #595959;
+  --cinza-bem-escuro: #333333;
+  --fundo-bg-transparente: rgba(0, 0, 0, 0);
+  --sombra-no-texto: 0 4px 4px rgba(0, 0, 0, 0.75);
+
+
+  /*font*/
+  --font-pacifico: 'Pacifico', cursive;
+  --font-Roboto: 'Roboto',sans-serif;
+}
